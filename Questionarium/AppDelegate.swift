@@ -8,6 +8,10 @@
 
 import UIKit
 
+var globalresult: Int = 0
+let checkSum: Int = 20
+
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
